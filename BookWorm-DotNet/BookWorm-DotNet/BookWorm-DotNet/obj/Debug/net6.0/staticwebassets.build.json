@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "RsmLps2s0H+7emA5uYJbTnt8odoi/JRtGrDpo2uRk7s=",
+  "Source": "BookWorm-DotNet",
+  "BasePath": "_content/BookWorm-DotNet",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
